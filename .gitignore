@@ -1,0 +1,8 @@
+.idea
+node_modules
+bower_components
+typings
+typings.json
+jsconfig.json
+tmp
+launch.json
